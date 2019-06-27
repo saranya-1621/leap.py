@@ -1,5 +1,5 @@
-leap=int(input())
-if leap%4==0:
+fan=int(input())
+if fan%4==0:
   print("yes")
 else:
   print("no")
